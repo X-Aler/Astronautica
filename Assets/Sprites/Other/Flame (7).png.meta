@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: fde4449dcd553fc40932309675311626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -836602441819215264
+    second: Flame (7)_0
+  - first:
+      213: -7639700273404835529
+    second: Flame (7)_1
+  - first:
+      213: -740488517687249998
+    second: Flame (7)_2
+  - first:
+      213: -6049161011580776348
+    second: Flame (7)_3
+  - first:
+      213: -2901634762267980156
+    second: Flame (7)_4
+  - first:
+      213: -410122627063485570
+    second: Flame (7)_5
+  - first:
+      213: -7237448174709177134
+    second: Flame (7)_6
+  - first:
+      213: 2535904843095372885
+    second: Flame (7)_7
+  - first:
+      213: 145464108145135851
+    second: Flame (7)_8
+  - first:
+      213: -5863101287305974273
+    second: Flame (7)_9
+  - first:
+      213: 126572069001566109
+    second: Flame (7)_10
+  - first:
+      213: -6372020212627534144
+    second: Flame (7)_11
+  - first:
+      213: 549085019222465023
+    second: Flame (7)_12
+  - first:
+      213: -314709568340786441
+    second: Flame (7)_13
+  - first:
+      213: -679396433045675089
+    second: Flame (7)_14
+  - first:
+      213: 3785921802491255402
+    second: Flame (7)_15
+  - first:
+      213: -6322294383620359442
+    second: Flame (7)_16
+  - first:
+      213: -3616243248372127412
+    second: Flame (7)_17
+  - first:
+      213: 6499759417208720743
+    second: Flame (7)_18
+  - first:
+      213: -1444721544892130965
+    second: Flame (7)_19
+  - first:
+      213: -4639535554715631593
+    second: Flame (7)_20
+  - first:
+      213: -165679469918741252
+    second: Flame (7)_21
+  - first:
+      213: 7000453777686530766
+    second: Flame (7)_22
+  - first:
+      213: 7073400286988149737
+    second: Flame (7)_23
+  - first:
+      213: 8398099566401198550
+    second: Flame (7)_24
+  - first:
+      213: -1119002392950120874
+    second: Flame (7)_25
+  - first:
+      213: 1855093847114951092
+    second: Flame (7)_26
+  - first:
+      213: -6488129724737838051
+    second: Flame (7)_27
+  - first:
+      213: 3529438195905683451
+    second: Flame (7)_28
+  - first:
+      213: 5032156530740630295
+    second: Flame (7)_29
+  - first:
+      213: 244147671189632247
+    second: Flame (7)_30
+  - first:
+      213: 8814785426417697604
+    second: Flame (7)_31
+  - first:
+      213: 367191592536255209
+    second: Flame (7)_32
+  - first:
+      213: 809987412886812304
+    second: Flame (7)_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame (7)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 346
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a242df28ac364f0800000000000000
+      internalID: -836602441819215264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame (7)_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 378
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 53, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739004504155af590800000000000000
+      internalID: -7639700273404835529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame (7)_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3fefecd9149b5f0800000000000000
+      internalID: -740488517687249998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec3fa19efea4ab54b9759d0befc309bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":362.0,"y":489.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flame (7)_0: -836602441819215264
+      Flame (7)_1: -7639700273404835529
+      Flame (7)_2: -740488517687249998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
